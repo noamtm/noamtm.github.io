@@ -1,6 +1,6 @@
 title: Noam Tamim
 description: Noam Tamim, Senior Software Engineer
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
